@@ -6,7 +6,6 @@ A simple **To-Do List API** built with **Node.js, Express, TypeScript, TypeORM, 
 - ✅ RESTful API with Express
 - ✅ TypeORM for database management
 - ✅ SQLite for local development
-- ✅ Swagger API documentation
 - ✅ Jest + Supertest for unit tests
 
 ---
